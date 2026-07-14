@@ -1,3 +1,3 @@
 # harshdip-demo
-This is my first git repository.
-Author-pradip lahane
+This is my first Git repository.
+Author-Pradip Lahane
